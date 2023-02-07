@@ -67,30 +67,27 @@ MILESTONES
 
 DAY 1
 
-create a repo for frontend and backend
-work on the backend.
+ - create a repo for frontend and backend
+ - work on the backend.
+
 DAY 2
 
-start connecting frontend
-continue work on finishing backend
+ - start connecting frontend
+ - continue work on finishing backend
+
 DAY 3
 
-Finish the backend to meet MVP
-start working on stretch goals
+ - Finish the backend to meet MVP
+ - start working on stretch goals
+
 DAY 4
 
-Work on CSS and styling
-progress on stretch goals
+ - Work on CSS and styling
+ - progress on stretch goals
+
 DAY 5
 
-Deploy the site
-Finish CSS
-progress on stretch goals
-SATURDAY
+ - Deploy the site
+ - Finish CSS
+ - progress on stretch goals
 
-finish stretch goals
-fix whatever CSS is left
-Debug
-SUNDAY
-
-finish up whatever is left
